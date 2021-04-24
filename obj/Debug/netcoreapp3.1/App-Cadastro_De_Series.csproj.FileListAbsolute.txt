@@ -1,0 +1,13 @@
+C:\Users\josan\Desktop\App-Cadastro_De_Series\bin\Debug\netcoreapp3.1\App-Cadastro_De_Series.exe
+C:\Users\josan\Desktop\App-Cadastro_De_Series\bin\Debug\netcoreapp3.1\App-Cadastro_De_Series.deps.json
+C:\Users\josan\Desktop\App-Cadastro_De_Series\bin\Debug\netcoreapp3.1\App-Cadastro_De_Series.runtimeconfig.json
+C:\Users\josan\Desktop\App-Cadastro_De_Series\bin\Debug\netcoreapp3.1\App-Cadastro_De_Series.runtimeconfig.dev.json
+C:\Users\josan\Desktop\App-Cadastro_De_Series\bin\Debug\netcoreapp3.1\App-Cadastro_De_Series.dll
+C:\Users\josan\Desktop\App-Cadastro_De_Series\bin\Debug\netcoreapp3.1\App-Cadastro_De_Series.pdb
+C:\Users\josan\Desktop\App-Cadastro_De_Series\obj\Debug\netcoreapp3.1\App-Cadastro_De_Series.csprojAssemblyReference.cache
+C:\Users\josan\Desktop\App-Cadastro_De_Series\obj\Debug\netcoreapp3.1\App-Cadastro_De_Series.AssemblyInfoInputs.cache
+C:\Users\josan\Desktop\App-Cadastro_De_Series\obj\Debug\netcoreapp3.1\App-Cadastro_De_Series.AssemblyInfo.cs
+C:\Users\josan\Desktop\App-Cadastro_De_Series\obj\Debug\netcoreapp3.1\App-Cadastro_De_Series.csproj.CoreCompileInputs.cache
+C:\Users\josan\Desktop\App-Cadastro_De_Series\obj\Debug\netcoreapp3.1\App-Cadastro_De_Series.dll
+C:\Users\josan\Desktop\App-Cadastro_De_Series\obj\Debug\netcoreapp3.1\App-Cadastro_De_Series.pdb
+C:\Users\josan\Desktop\App-Cadastro_De_Series\obj\Debug\netcoreapp3.1\App-Cadastro_De_Series.genruntimeconfig.cache
