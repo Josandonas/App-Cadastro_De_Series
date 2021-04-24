@@ -1,12 +1,14 @@
 # DIO APP Cadastro de Series
 
+O projeto foi realizado em C# CLI( Console Line Interface)
+
 > ### Ações do app:
 >
 >> * Inserir Nova Série
 >> * Alterar
 >> * Excluir
 >> * Listar Series
->> * Visualizar uma única série
+>> * Visualizar uma única série acompanhada de todas suas informações
 
 ### Ambiente
 
