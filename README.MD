@@ -1,6 +1,6 @@
-# DIO APP Cadastro de Series
+# APP Cadastro de Series
 
-O projeto foi realizado em C# CLI( Console Line Interface)
+O projeto foi realizado em C# CLI( Console Line Interface), como meio de aprendizagem proporcionado pela Digital Inovation One.
 
 > ### Ações do app:
 >
